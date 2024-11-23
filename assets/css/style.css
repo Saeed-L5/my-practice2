@@ -17,6 +17,10 @@ h1, h2 {
     font-family: "DM Serif Display", serif;
     color: #184f63; /* dark-blue */
 }
+/* sharp corners for portfolio card edges and buttons */
+.sharp-corners, .sharp-corners * {
+    border-radius: 0;
+}
 /* About section */
 #about {
     background-color: white;
